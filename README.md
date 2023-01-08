@@ -6,13 +6,13 @@
 
 ## Team Members
 
-_**Art & Design:** Víctor Gil_
+_**Map & Gameplay Design:** Víctor Gil_
 * **GitHub:** [Ludo-pixel](https://github.com/Ludo-pixel)
 
 _**Code & Management:** Francesc Teruel_
 * **GitHub:** [francesctr4](https://github.com/francesctr4)
 
-_**Quality Assurance (QA):** Mario García_
+_**Code & Quality Assurance (QA):** Mario García_
 * **GitHub:** [mariogs5](https://github.com/mariogs5)
 
 ## Game Description
