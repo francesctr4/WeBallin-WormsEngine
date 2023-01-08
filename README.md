@@ -21,7 +21,10 @@ _**Code & Quality Assurance (QA):** Mario García_
 
 ## Objective
 
-Hola
+When the player spawns, they must hit the five targets around the map before they run out of projectiles.
+Each target gives you 100 points, you need 500 points to win.
+
+If the projectiles run out and all the targets haven't been hit, the player loses.
 
 ## Game Controls
 
@@ -69,15 +72,3 @@ Hola
 	9 --> Change current Player Control Scheme to Force (Default)
 	
 	0 --> Enable/Disable Infinite Bullets Mode
-
-## Development Diary
-
-In this section we will explain the development of the game and all the problems we have faced while we were doing it and how we have solved them:
-
-### Development
-
-
-
-### Bugs
-
-
