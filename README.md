@@ -17,7 +17,10 @@ _**Code & Quality Assurance (QA):** Mario García_
 
 ## Game Description
 
+Essentially, this is a Physics Playground to test our 2D Physics Engine.
 
+In order to test several Physics Forces and the correspondent response, we have developed a simple
+worms-like game with clear win/lose conditions to play and interact with the functionalities of the engine.
 
 ## Objective
 
