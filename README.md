@@ -16,12 +16,12 @@ _**Code & Quality Assurance (QA):** Mario García_
 * **GitHub:** [mariogs5](https://github.com/mariogs5)
 
 ## Game Description
-hola
+
 
 
 ## Objective
 
-
+Hola
 
 ## Game Controls
 
