@@ -1,4 +1,4 @@
-# Kirby's Pinball Land by WeBallin
+# Worms Engine by WeBallin
 
 ### [WeBallin-WormsEngine Repository](https://github.com/francesctr4/WeBallin-WormsEngine)
 
