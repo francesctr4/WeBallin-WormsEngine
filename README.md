@@ -1,6 +1,6 @@
 # Kirby's Pinball Land by WeBallin
 
-### [WeBallin Repository](https://github.com/francesctr4/WeBallin)
+### [WeBallin-WormsEngine Repository](https://github.com/francesctr4/WeBallin-WormsEngine)
 
 ### Current release version: Alpha (v0.1.0)
 
