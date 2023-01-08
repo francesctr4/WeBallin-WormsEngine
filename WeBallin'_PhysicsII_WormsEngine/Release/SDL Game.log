@@ -1,0 +1,123 @@
+﻿  Application.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  log.cpp
+  Main.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ModuleAudio.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ModuleInput.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ModulePhysics.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(475,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(633,43): warning C4244: '=': conversión de 'uint32' a 'float'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(680,13): warning C4244: 'argumento': conversión de 'float' a 'Uint32'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(1029,37): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(1033,9): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(1043,37): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(1047,9): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(1105,13): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(1110,7): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(788,1): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(747): message : Vea la referencia a la creación de una instancia de la función plantilla "Ground *std::vector<Ground,std::allocator<Ground>>::_Emplace_reallocate<Ground&>(Ground *const ,Ground &)" que se está compilando
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(747): message : Vea la referencia a la creación de una instancia de la función plantilla "Ground *std::vector<Ground,std::allocator<Ground>>::_Emplace_reallocate<Ground&>(Ground *const ,Ground &)" que se está compilando
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.cpp(46): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::vector<Ground,std::allocator<Ground>>::emplace_back<Ground&>(Ground &)" que se está compilando
+  ModulePlayer.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePlayer.cpp(59,25): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePlayer.cpp(65,26): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(788,1): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(747): message : Vea la referencia a la creación de una instancia de la función plantilla "PhysBody *std::vector<PhysBody,std::allocator<PhysBody>>::_Emplace_reallocate<PhysBody&>(PhysBody *const ,PhysBody &)" que se está compilando
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(747): message : Vea la referencia a la creación de una instancia de la función plantilla "PhysBody *std::vector<PhysBody,std::allocator<PhysBody>>::_Emplace_reallocate<PhysBody&>(PhysBody *const ,PhysBody &)" que se está compilando
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePlayer.cpp(21): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::vector<PhysBody,std::allocator<PhysBody>>::emplace_back<PhysBody&>(PhysBody &)" que se está compilando
+  ModuleRender.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ModuleScene.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ModuleSceneFinal.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ModuleSceneIntro.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ModuleTextures.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ModuleWindow.cpp
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(158,23): warning C4584: 'Target': la clase base 'SDL_Rect' ya es una clase base de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\SDL\include\SDL_rect.h(64): message : vea la declaración de 'SDL_Rect'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(136): message : vea la declaración de 'Ground'
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(166,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(167,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(168,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\ModulePhysics.h(422,3): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  PerfTimer.cpp
+  Timer.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 477 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  SDL Game.vcxproj -> C:\Users\34646\OneDrive\Escritorio\WeBallin'_PhysicsII_WormsEngine\Release\PhysEngine.exe
