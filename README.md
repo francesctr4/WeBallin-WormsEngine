@@ -37,6 +37,7 @@ Hola
 	SPACE --> Shoot bullet
 	
 	ENTER --> Move from intro screen to game screen
+	ESC --> Exit game
 	
 ### DEBUG KEYS ###
 
